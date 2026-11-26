@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-        background-color: #666666;
+        background-color: #333333;
         color: white;
         width: 100%;
 	font-family: 'Grenze Gotisch', serif;
@@ -47,7 +47,7 @@ ul {
        	font-style: italic;
        	font-size: 30px;
 	font-weight: 300;
-        background-color: #333333;
+        background-color: #666666;
         width: fit-content;
         padding-right: 200px;
         border-top-right-radius: 10px;
