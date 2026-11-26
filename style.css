@@ -3,34 +3,42 @@ body {
         background-color: black;
         color: white;
         width: 100%;
-	font-family: 'Pirata One', cursive;
+	font-family: 'Grenze Gotisch', serif;
 	margin: 0; 
         padding: 0;
         visibility: visible;
 }
 
 h1 {
-	font-size: 50px;
+	font-size: 60px;
+	font-weight: 600;
 }
 
 h2 {
-	font-size: 35px;
+	font-size: 45px;
+	font-weight: 600;
 }
-    
-p {  
+
+h3 {
 	font-size: 20px;
+	font-weight: 100; 
+
+p {  
+	font-size: 30px;
+
 }
 
 ul {
        	text-align: left;
-       	padding-left: 120px;
+       	padding-left: 100px;
        	font-style: italic;
-       	font-size: 20px;
+       	font-size: 30px;
+	font-weight: 300;
         background-color: #333333;
         width: fit-content;
-        padding-right: 220px;
+        padding-right: 200px;
         border-top-right-radius: 10px;
-	border-bottom-right-radius: 220px;
+	border-bottom-right-radius: 200px;
 }
     
 a:link {color: black;}
@@ -38,7 +46,3 @@ a:visited {color: blue;}
 a:hover {color: black;}
     
 
-button {
-       	font-size: 30px;
-	font-family: 'Press Start 2P', sans-serif;
-}
