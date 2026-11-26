@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-        background-color: #333333;
+        background-color: #000000;
         color: white;
         width: 100%;
 	font-family: 'Grenze Gotisch', serif;
@@ -13,7 +13,7 @@ h1 {
 	font-size: 60px;
 	font-weight: 600;
 	padding: 30px;
-	background-color: #000000;
+	background-color: #252525;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
 	border-bottom-right-radius: 100px;
@@ -24,7 +24,7 @@ h2 {
 	font-size: 45px;
 	font-weight: 600;
 	padding: 30px;
-	background-color: #000000;
+	background-color: #252525;
 	border-top-right-radius: 5px;
 	border-top-left-radius: 5px;
 	border-bottom-right-radius: 100px;
@@ -47,7 +47,7 @@ ul {
        	font-style: italic;
        	font-size: 30px;
 	font-weight: 300;
-        background-color: #666666;
+        background-color: #505050;
         width: fit-content;
         padding-right: 200px;
         border-top-right-radius: 10px;
